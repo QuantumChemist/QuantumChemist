@@ -1,4 +1,4 @@
-### Hi there, I'm Christina Ertural, a scientist in the theoretical chemistry community and a former LOBSTER developer. 👋
+### Hi there, I'm Christina Ertural, PostDoc at BAM in Berlin in the junior group of @JaGeo, scientist in the theoretical chemistry community and a former LOBSTER developer. 👋
 
 <!--
 **QuantumChemist/QuantumChemist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
