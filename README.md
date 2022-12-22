@@ -1,4 +1,4 @@
-### Hi there, I'm Christina Ertural, PostDoc at BAM in Berlin in the junior group of @JaGeo, scientist in the theoretical chemistry community and a former LOBSTER developer. 👋 
+### Hi there, I'm Christina Ertural, PostDoc at BAM in Berlin in the junior group of Dr. Janine George, scientist in the theoretical chemistry community and a former LOBSTER developer. 👋 
 
 My profile pic is a variant of the logo for BeratE/lix. :D
 
