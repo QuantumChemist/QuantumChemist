@@ -1,4 +1,6 @@
-### Hi there, I'm Christina Ertural, PostDoc at BAM in Berlin in the junior group of Dr. Janine George, scientist in the theoretical chemistry community and a former LOBSTER developer. 👋 
+### Hi there 👋
+
+I'm Christina Ertural, PostDoc at BAM in Berlin in the junior group of Dr. Janine George, scientist in the theoretical chemistry community and a former LOBSTER developer.  
 
 
 
@@ -16,5 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Working on my GitHub stats haha
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuantumChemist&theme=radical)
