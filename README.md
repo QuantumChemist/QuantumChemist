@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 Working on my GitHub stats haha
 
 ![](https://raw.githubusercontent.com/QuantumChemist/GitHubStats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/QuantumChemist/GitHubStats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/QuantumChemist/GitHubStats/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/QuantumChemist/GitHubStats/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/QuantumChemist/GitHubStats/master/generated/languages.svg#gh-light-mode-only)
 
 
