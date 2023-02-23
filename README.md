@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuantumChemist&theme=radical)
 -->
 
 Working on my GitHub stats haha
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuantumChemist&theme=radical)
 
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
