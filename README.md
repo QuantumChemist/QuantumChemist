@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuantumChemist&theme=radical)
 -->
 
 Working on my GitHub stats haha
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuantumChemist&theme=radical)
+![](https://raw.githubusercontent.com/QuantumChemist/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+
