@@ -27,7 +27,7 @@ Working on my GitHub stats haha
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
 <a href="https://github.com/QuantumChemist/GitHubStats">
-<img src="https://raw.githubusercontent.com/QuantumChemist/GitHubStats/c83a1c4fb56c8436a7b712d250d5dba27a79cdb1/generated/overview.svg#gh-dark-mode-onl" />
+<img src="https://raw.githubusercontent.com/QuantumChemist/GitHubStats/c83a1c4fb56c8436a7b712d250d5dba27a79cdb1/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/QuantumChemist/GitHubStats/c83a1c4fb56c8436a7b712d250d5dba27a79cdb1/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
