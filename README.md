@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 Working on my GitHub stats haha
 
-![](https://raw.githubusercontent.com/QuantumChemist/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/QuantumChemist/GitHubStats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/QuantumChemist/GitHubStats/master/generated/languages.svg#gh-dark-mode-only)
 
 
