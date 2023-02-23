@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 Working on my GitHub stats haha
 
-![](https://raw.githubusercontent.com/QuantumChemist/GitHubStats/c83a1c4fb56c8436a7b712d250d5dba27a79cdb1/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/QuantumChemist/GitHubStats/c83a1c4fb56c8436a7b712d250d5dba27a79cdb1/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/QuantumChemist/GitHubStats/c83a1c4fb56c8436a7b712d250d5dba27a79cdb1/generated/overview.svg)
+![](https://raw.githubusercontent.com/QuantumChemist/GitHubStats/c83a1c4fb56c8436a7b712d250d5dba27a79cdb1/generated/languages.svg)
 
