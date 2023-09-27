@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Christina Ertural, PostDoc at BAM in Berlin in the junior group of [Prof. Janine George](https://github.com/JaGeo), scientist in the theoretical chemistry community and a former [LOBSTER](http://cohp.de/) developer.  
+I'm Chris, PostDoc at BAM in Berlin in the junior group of [Prof. Janine George](https://github.com/JaGeo), scientist in the theoretical chemistry community and a former [LOBSTER](http://cohp.de/) developer.  
 
 You can check out more [here](https://quantumchemist.github.io/).
 
