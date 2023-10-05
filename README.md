@@ -42,7 +42,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 working on my polyglot stats:
 
-日本語を勉強します! 🥰
+アニメを字幕なしで見るために日本語を勉強しています！ 🥰
 
 Bende Türkçe biraz biliyorum 😂
 
