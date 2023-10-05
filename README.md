@@ -39,3 +39,11 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 -->
 
+working on my polyglot stats:
+日本語を勉強します! 🥰
+Bende Türkçe biraz biliyorum 😂
+Y aprendo español un poco. 🤏🏻
+Peut-être je n'ai pas oublié tout les choses en français en plus. 🤣
+Тоже немного говорю по русском. 😁
+If you happen to speak one of these languages and are interested in Tandem learning, I'm always open to that! 🤗
+
