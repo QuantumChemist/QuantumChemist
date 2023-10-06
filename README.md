@@ -29,16 +29,7 @@ Working on my GitHub stats haha
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=QuantumChemist&theme=tokyonight&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=320" />
 </a>
 
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
-
-<a href="https://github.com/QuantumChemist/GitHubStats">
-<img src="https://raw.githubusercontent.com/QuantumChemist/GitHubStats/c83a1c4fb56c8436a7b712d250d5dba27a79cdb1/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/QuantumChemist/GitHubStats/c83a1c4fb56c8436a7b712d250d5dba27a79cdb1/generated/languages.svg#gh-dark-mode-only" />
-</a>
-
--->
-
+<br clear="left"/> <br clear="left"/>
 
 working on my polyglot stats:
 
@@ -53,4 +44,17 @@ Peut-être je n'ai pas oublié tout les choses en français en plus. 🤣
 Тоже немного говорю по-русски. 😁
 
 If you happen to speak one of these languages and are interested in Tandem learning German, I'm always open to that! 🤗
+
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+
+<a href="https://github.com/QuantumChemist/GitHubStats">
+<img src="https://raw.githubusercontent.com/QuantumChemist/GitHubStats/c83a1c4fb56c8436a7b712d250d5dba27a79cdb1/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/QuantumChemist/GitHubStats/c83a1c4fb56c8436a7b712d250d5dba27a79cdb1/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
+-->
+
+
+
 
