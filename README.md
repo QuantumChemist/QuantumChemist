@@ -1,5 +1,10 @@
-### Hi there 👋 [<img src="https://quantumchemist.github.io/utils/QClogohighres.png" width="16px" height=auto />](https://doi.org/10.1021/acs.chemmater.1c03349)
+[![Linkedin: Christina Ertural](https://img.shields.io/badge/-Christina%20Ertural-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christina-ertural/)](https://www.linkedin.com/in/christina-ertural/)
+[![GitHub QuantumChemist](https://img.shields.io/github/followers/QuantumChemist?label=follow&style=social)](https://github.com/QuantumChemist)
+[![GitHub Stars](https://img.shields.io/github/stars/QuantumChemist?style=social)](https://github.com/QuantumChemist)
+[![Hits](https://komarev.com/ghpvc/?username=QuantumChemist&color=blue&label=Hits)](https://github.com/QuantumChemist)
 
+### Hi there 👋 [<img src="https://quantumchemist.github.io/utils/QClogohighres.png" width="16px" height=auto />](https://doi.org/10.1021/acs.chemmater.1c03349)
+lue
 I'm Chris, PostDoc at [BAM](https://github.com/BAMresearch) in Berlin in the junior group of [Prof. Janine George](https://github.com/JaGeo), scientist in the theoretical chemistry community and a former [LOBSTER](http://cohp.de/) developer.  
 
 You can check out more [here](https://quantumchemist.github.io/).
