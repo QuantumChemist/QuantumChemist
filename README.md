@@ -4,7 +4,7 @@
 [![Hits](https://komarev.com/ghpvc/?username=QuantumChemist&color=blue&label=Hits)](https://github.com/QuantumChemist)
 
 ### Hi there 👋 [<img src="https://quantumchemist.github.io/utils/QClogohighres.png" width="16px" height=auto />](https://doi.org/10.1021/acs.chemmater.1c03349)
-I'm Chris, PostDoc at [BAM](https://github.com/BAMresearch) in Berlin in the junior group of [Prof. Janine George](https://github.com/JaGeo), scientist in the theoretical chemistry community and a former [LOBSTER](http://cohp.de/) developer.  
+I'm Chris, PostDoc at [BAM](https://github.com/BAMresearch) in Berlin in the junior group of [Prof. Janine George](https://github.com/JaGeo), researcher in the theoretical chemistry community and a former [LOBSTER](http://cohp.de/) developer.  
 
 You can check out more [here](https://quantumchemist.github.io/).
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuantumChemist&theme=radical)
 -->
 
-Working on my GitHub stats haha
+Working on my `GitHub stats` haha
 
 <a href="https://git.io/awesome-stats-card">
   <img height=200 align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/QuantumChemist?cardType=octocat&theme=tokyonight&preferLogin=true&card_width=320" />
@@ -35,7 +35,7 @@ Working on my GitHub stats haha
 
 <br clear="left"/> <br clear="left"/>
 
-working on my polyglot stats:
+working on my `polyglot stats`:
 
 アニメを字幕なしで見るために日本語を勉強しています！ 🥰
 
