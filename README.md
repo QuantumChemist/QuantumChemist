@@ -38,25 +38,40 @@ Working on my `GitHub stats` haha
 <br clear="left"/> <br clear="left"/>
 
 working on my `polyglot stats`:
-<details>
-<summary>Click me!</summary>
-
 ```python
 In [1]: languages.avail()
->>>
+```
+<details>
+<summary>>>></summary>
+  
+```python
 Out [1]: C++, Python, bash, R
- 
-In [2]: human_languages.avail('sample_text')
->>>
-Out [2]: アニメを字幕なしで見るために日本語を勉強しています！ 🥰
-         Bende Türkçe biraz biliyorum 😂
-         Y aprendo español un poco. 🤏🏻
-         Peut-être je n'ai pas oublié tout les choses en français en plus. 🤣
-         Тоже немного говорю по-русски. 😁
+```
+</details>
 
+```python
+In [2]: human_languages.avail('sample_text')
+```
+<details>
+<summary>>>></summary>
+  
+```python
+Out [2]: "アニメを字幕なしで見るために日本語を勉強しています！ 🥰"
+         "Bende Türkçe biraz biliyorum 😂"
+         "Y aprendo español un poco. 🤏🏻"
+         "Peut-être je n'ai pas oublié tout les choses en français en plus. 🤣"
+         "Тоже немного говорю по-русски. 😁"
+```
+</details>
+
+```python
 In [3]: tandem.show()
->>>
-Out [3]: If you happen to speak one of these languages and are interested in Tandem learning German, I'm always open to that! 🤗
+```
+<details>
+<summary>>>></summary>
+
+```python
+Out [3]: "If you happen to speak one of these languages and are interested in Tandem learning German, I'm always open to that! 🤗"
 ```
 </details>
 
