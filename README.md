@@ -39,17 +39,23 @@ Working on my `GitHub stats` haha
 
 working on my `polyglot stats`:
 
-アニメを字幕なしで見るために日本語を勉強しています！ 🥰
+```
+In [1]: languages.avail()
+>>>
+Out [1]: C++, Python, bash, R
+ 
+In [2]: human_languages.avail('sample_text')
+>>>
+Out [2]: アニメを字幕なしで見るために日本語を勉強しています！ 🥰
+         Bende Türkçe biraz biliyorum 😂
+         Y aprendo español un poco. 🤏🏻
+         Peut-être je n'ai pas oublié tout les choses en français en plus. 🤣
+         Тоже немного говорю по-русски. 😁
 
-Bende Türkçe biraz biliyorum 😂
-
-Y aprendo español un poco. 🤏🏻
-
-Peut-être je n'ai pas oublié tout les choses en français en plus. 🤣
-
-Тоже немного говорю по-русски. 😁
-
-If you happen to speak one of these languages and are interested in Tandem learning German, I'm always open to that! 🤗
+In [3]: tandem.show()
+>>>
+Out [3]: If you happen to speak one of these languages and are interested in Tandem learning German, I'm always open to that! 🤗
+```
 
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
