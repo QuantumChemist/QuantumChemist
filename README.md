@@ -3,10 +3,13 @@
 [![GitHub Stars](https://img.shields.io/github/stars/QuantumChemist?style=social)](https://github.com/QuantumChemist)
 [![Hits](https://komarev.com/ghpvc/?username=QuantumChemist&color=blue&label=Hits)](https://github.com/QuantumChemist)
 
-### Hi, I'm Chris 👋🏻 
-[<img src="https://quantumchemist.github.io/utils/QClogo.gif" width="132px" height=auto />](https://doi.org/10.1021/acs.chemmater.1c03349)
 
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Chris+👋🏻;Theoretical+Chemistry;Machine+learned+potentials;Materials+informatics;Postdoctoral+researcher;Always%20learning%20new%20things&center=auto&width=500&height=50"></a> 
+
+[<img align="left" src="https://quantumchemist.github.io/utils/QClogo.gif" width="120px" height=auto />](https://doi.org/10.1021/acs.chemmater.1c03349)
 I'm Chris, PostDoc at [BAM](https://github.com/BAMresearch) in Berlin in the junior group of [Prof. Janine George](https://github.com/JaGeo), researcher in the theoretical chemistry community and a former [LOBSTER](http://cohp.de/) developer.  
+
+<br clear="left"/> <br clear="left"/>
 
 You can check out more [here](https://quantumchemist.github.io/).
 
