@@ -8,8 +8,7 @@
 
 [<img align="left" src="https://quantumchemist.github.io/utils/QClogo.gif" width="120px" height=auto />](https://doi.org/10.1021/acs.chemmater.1c03349)
  I'm Chris, PostDoc at [BAM](https://github.com/BAMresearch) in Berlin in the junior group of [Prof. Janine George](https://github.com/JaGeo), researcher in the theoretical chemistry community and a former [LOBSTER](http://cohp.de/) developer.
-
-<br clear="left"/> <br clear="left"/>
+<br clear="left"/> 
 
 You can check out more [here](https://quantumchemist.github.io/).
 
