@@ -41,7 +41,7 @@ Working on my `GitHub stats` haha
 working on my `polyglot stats`:
 
 ```python
-In [1]: languages.avail()
+In [1]: languages.avail("include_deprecated")
 ```
 <details>
 <summary></summary>
@@ -53,7 +53,7 @@ Out [1]: C++, Python, bash, R
 </details>
 
 ```python
-In [2]: human_languages.avail('sample_text')
+In [2]: human_languages.avail("sample_text")
 ```
 <details>
 <summary></summary>
