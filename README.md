@@ -7,7 +7,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Chris+👋🏻;Theoretical+Chemistry;Machine+learned+potentials;Materials+informatics;Postdoctoral+researcher;Always%20learning%20new%20things&center=auto&width=500&height=50"></a> 
 
 [<img align="left" src="https://quantumchemist.github.io/utils/QClogo.gif" width="120px" height=auto />](https://doi.org/10.1021/acs.chemmater.1c03349)
-I'm Chris, PostDoc at [BAM](https://github.com/BAMresearch) in Berlin in the junior group of [Prof. Janine George](https://github.com/JaGeo), researcher in the theoretical chemistry community and a former [LOBSTER](http://cohp.de/) developer.  
+ I'm Chris, PostDoc at [BAM](https://github.com/BAMresearch) in Berlin in the junior group of [Prof. Janine George](https://github.com/JaGeo), researcher in the theoretical chemistry community and a former [LOBSTER](http://cohp.de/) developer.
 
 <br clear="left"/> <br clear="left"/>
 
