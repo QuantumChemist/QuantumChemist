@@ -92,6 +92,15 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 -->
 
+## Languages, Frameworks and Tools
 
+<div align=center>
+
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Cat_python.png" alt="Python" style="height: 70px; width: 70px;"></a>
+<a href="https://en.cppreference.com/w/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Cat_c%2B%2B.png" alt="C++" style="height: 70px; width: 70px;"></a>
+<a href="https://next-gen.materialsproject.org/"><img src="https://matsci.org/uploads/default/optimized/1X/2cd38ebab6f6a0d889a744bcfde93f3b6f55a3bf_2_1380x832.png" alt="The Materials Projec" style="height: 70px; width: auto;"></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://www.qbssoftware.com/image/cache/catalog/Product%20Logos/JetBrains/JBPYCHARM-1000x1000.png" alt="PyCharm" style="height: 75px; width: 75px;"></a>
+
+</div>
 
 
