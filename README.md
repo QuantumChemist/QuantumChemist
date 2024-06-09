@@ -15,8 +15,6 @@ I'm Chris, PostDoc at [BAM](https://github.com/BAMresearch) in Berlin in the jun
 You can check out more [here](https://quantumchemist.github.io/).
 
 <!--
-**QuantumChemist/QuantumChemist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -24,10 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=QuantumChemist&theme=radical)
 -->
 
 Working on my `GitHub stats` haha
@@ -83,16 +78,8 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
 </details>
 
 <!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
-
-<a href="https://github.com/QuantumChemist/GitHubStats">
-<img src="https://raw.githubusercontent.com/QuantumChemist/GitHubStats/c83a1c4fb56c8436a7b712d250d5dba27a79cdb1/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/QuantumChemist/GitHubStats/c83a1c4fb56c8436a7b712d250d5dba27a79cdb1/generated/languages.svg#gh-dark-mode-only" />
-</a>
-
--->
 
 ## Languages, Frameworks and Tools   <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Cat_python.png" alt="Python" style="height: 30px; width: auto;"></a> <a href="https://en.cppreference.com/w/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Cat_c%2B%2B.png" alt="C++" style="height: 30px; width: auto;"></a> <a href="https://next-gen.materialsproject.org/"><img src="https://quantumchemist.github.io/utils/mpcat.png" alt="The Materials Projec" style="height: 30px; width: auto;"> </a><a href="https://www.jetbrains.com/pycharm/"><img src="https://www.qbssoftware.com/image/cache/catalog/Product%20Logos/JetBrains/JBPYCHARM-1000x1000.png" alt="PyCharm" style="height: 40px; width: auto;"></a>
 
-
+-->
 
