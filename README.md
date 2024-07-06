@@ -78,6 +78,14 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
 ```
 </details>
 
+## GitHub contribution snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuantumChemist/QuantumChemist/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://raw.githubusercontent.com/QuantumChemist/QuantumChemist/output/github-contribution-grid-snake.svg)" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
 <!--
 
 ## Languages, Frameworks and Tools   <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Cat_python.png" alt="Python" style="height: 30px; width: auto;"></a> <a href="https://en.cppreference.com/w/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Cat_c%2B%2B.png" alt="C++" style="height: 30px; width: auto;"></a> <a href="https://next-gen.materialsproject.org/"><img src="https://quantumchemist.github.io/utils/mpcat.png" alt="The Materials Projec" style="height: 30px; width: auto;"> </a><a href="https://www.jetbrains.com/pycharm/"><img src="https://www.qbssoftware.com/image/cache/catalog/Product%20Logos/JetBrains/JBPYCHARM-1000x1000.png" alt="PyCharm" style="height: 40px; width: auto;"></a>
