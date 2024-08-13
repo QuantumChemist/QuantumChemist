@@ -1,8 +1,8 @@
 [![Linkedin: Christina Ertural](https://img.shields.io/badge/-Christina%20Ertural-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christina-ertural/)](https://www.linkedin.com/in/christina-ertural/)
-<!--[![GitHub Commits](https://img.shields.io/github/commit-activity/y/QuantumChemist/lobsterpygui?style=social)](https://github.com/QuantumChemist)-->
-[![GitHub QuantumChemist](https://img.shields.io/github/followers/QuantumChemist?label=follow&style=social)](https://github.com/QuantumChemist)
 [![GitHub Stars](https://img.shields.io/github/stars/QuantumChemist?style=social)](https://github.com/QuantumChemist)
-<!--[![Hits](https://komarev.com/ghpvc/?username=QuantumChemist&color=blue&label=Hits)](https://github.com/QuantumChemist)-->
+<!--[![GitHub Commits](https://img.shields.io/github/commit-activity/y/QuantumChemist/lobsterpygui?style=social)](https://github.com/QuantumChemist)
+[![GitHub QuantumChemist](https://img.shields.io/github/followers/QuantumChemist?label=follow&style=social)](https://github.com/QuantumChemist)
+[![Hits](https://komarev.com/ghpvc/?username=QuantumChemist&color=blue&label=Hits)](https://github.com/QuantumChemist)-->
 
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Chris+👋🏻;Theoretical+Chemistry;Chemical+bonding+analysis;Machine-learned+potentials;Materials+informatics;Postdoctoral+researcher;Always%20learning%20new%20things&center=auto&width=500&height=50"></a> 
