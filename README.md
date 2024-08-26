@@ -88,7 +88,58 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
 
 <!--
 
-## Languages, Frameworks and Tools   <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Cat_python.png" alt="Python" style="height: 30px; width: auto;"></a> <a href="https://en.cppreference.com/w/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Cat_c%2B%2B.png" alt="C++" style="height: 30px; width: auto;"></a> <a href="https://next-gen.materialsproject.org/"><img src="https://quantumchemist.github.io/utils/mpcat.png" alt="The Materials Projec" style="height: 30px; width: auto;"> </a><a href="https://www.jetbrains.com/pycharm/"><img src="https://www.qbssoftware.com/image/cache/catalog/Product%20Logos/JetBrains/JBPYCHARM-1000x1000.png" alt="PyCharm" style="height: 40px; width: auto;"></a>
+## Languages, Frameworks and Tools   
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Cat_python.png" alt="Python" style="height: 30px; width: auto;"></a> 
+<a href="https://en.cppreference.com/w/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Cat_c%2B%2B.png" alt="C++" style="height: 30px; width: auto;"></a>
+<a href="https://next-gen.materialsproject.org/"><img src="https://quantumchemist.github.io/utils/mpcat.png" alt="The Materials Projec" style="height: 30px; width: auto;"> </a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://www.qbssoftware.com/image/cache/catalog/Product%20Logos/JetBrains/JBPYCHARM-1000x1000.png" alt="PyCharm" style="height: 40px; width: auto;"></a>
+
+    <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="Rasberry Pi" />
+      <br>Rasberry Pi
+    </td>
 
 -->
+
+<h3 align="left" font-size='25px'>Languages, Skills, Frameworks and Tools</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center"  width="96">
+        <img src="https://next-gen.materialsproject.org/assets/images/home/mp_color.png" width="64" height="48" alt="Materials Project" />
+      <br>Materials Project
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-download-in-png-blend-fbx-gltf-file-formats--mongodb-database-document-oriented-nosql-coding-lang-pack-logos-icons-7577996.png" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-pycharm-3d-logo-download-in-png-blend-fbx-gltf-file-formats--software-coding-tool-web-social-media-pack-company-brand-logos-4781227.png" width="48" height="48" alt="PyCharm" />
+      <br>PyCharm
+    </td>
+
+
+    
+  </tr>
+</table>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=QuantumChemist&column=-1&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+</br>
 
