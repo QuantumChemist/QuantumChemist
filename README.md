@@ -93,12 +93,6 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
 <a href="https://en.cppreference.com/w/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Cat_c%2B%2B.png" alt="C++" style="height: 30px; width: auto;"></a>
 <a href="https://next-gen.materialsproject.org/"><img src="https://quantumchemist.github.io/utils/mpcat.png" alt="The Materials Projec" style="height: 30px; width: auto;"> </a>
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://www.qbssoftware.com/image/cache/catalog/Product%20Logos/JetBrains/JBPYCHARM-1000x1000.png" alt="PyCharm" style="height: 40px; width: auto;"></a>
-
-    <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="Rasberry Pi" />
-      <br>Rasberry Pi
-    </td>
-
 -->
 
 <h3 align="left" font-size='25px'>Languages, Skills, Frameworks and Tools</h3>
@@ -132,6 +126,10 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
     <td align="center" width="96">
         <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-pycharm-3d-logo-download-in-png-blend-fbx-gltf-file-formats--software-coding-tool-web-social-media-pack-company-brand-logos-4781227.png" width="48" height="48" alt="PyCharm" />
       <br>PyCharm
+    <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="Rasberry Pi" />
+      <br>Rasberry Pi 3
+    </td>
     </td>
 
 
