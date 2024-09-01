@@ -128,7 +128,7 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
       <br>PyCharm
     <td align="center"  width="96">
         <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="Rasberry Pi" />
-      <br>Rasberry Pi 3
+      <br>Raspberry Pi 3
     </td>
     </td>
 
