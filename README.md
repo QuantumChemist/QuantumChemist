@@ -99,37 +99,45 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="88">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="88"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center" width="96">
+    <td align="center" width="88">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
       <br>Python
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="88">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
       <br>C++
     </td>
-    <td align="center"  width="96">
+    <td align="center" width="88">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="Python" />
+      <br>JS
+    </td>
+    <td align="center"  width="88">
         <img src="https://next-gen.materialsproject.org/assets/images/home/mp_color.png" width="64" height="48" alt="Materials Project" />
       <br>Materials Project
     </td>
-    <td align="center" width="96">
+    <td align="center" width="88">
         <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-download-in-png-blend-fbx-gltf-file-formats--mongodb-database-document-oriented-nosql-coding-lang-pack-logos-icons-7577996.png" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-    <td align="center" width="96">
+    <td align="center" width="88">
         <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-pycharm-3d-logo-download-in-png-blend-fbx-gltf-file-formats--software-coding-tool-web-social-media-pack-company-brand-logos-4781227.png" width="48" height="48" alt="PyCharm" />
       <br>PyCharm
-    <td align="center"  width="96">
+    </td>
+    <td align="center" width="88">
+        <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_webstorm_macos_bigsur_icon_190053.png" width="48" height="48" alt="WebStorm" />
+      <br>WebStorm
+    </td>
+    <td align="center" width="88">
         <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="Rasberry Pi" />
       <br>Raspberry Pi 3
-    </td>
     </td>
 
 
