@@ -93,6 +93,14 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
 <a href="https://en.cppreference.com/w/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Cat_c%2B%2B.png" alt="C++" style="height: 30px; width: auto;"></a>
 <a href="https://next-gen.materialsproject.org/"><img src="https://quantumchemist.github.io/utils/mpcat.png" alt="The Materials Projec" style="height: 30px; width: auto;"> </a>
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://www.qbssoftware.com/image/cache/catalog/Product%20Logos/JetBrains/JBPYCHARM-1000x1000.png" alt="PyCharm" style="height: 40px; width: auto;"></a>
+
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
 -->
 
 <h3 align="left" font-size='25px'>Languages, Skills, Frameworks and Tools</h3>
