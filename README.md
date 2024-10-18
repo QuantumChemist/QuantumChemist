@@ -37,7 +37,15 @@ Working on my `GitHub stats` haha
 
 <br clear="left"/> <br clear="left"/>
 
+## GitHub contribution snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuantumChemist/QuantumChemist/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuantumChemist/QuantumChemist/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
+
+<!--
 working on my `polyglot stats`:
 
 ```python
@@ -77,16 +85,6 @@ In [3]: tandem.show()
 Out [3]: "If you happen to speak one of these languages and are interested in Tandem learning German, I'm always open to that! 🤗"
 ```
 </details>
-
-## GitHub contribution snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuantumChemist/QuantumChemist/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuantumChemist/QuantumChemist/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-
-<!--
 
 ## Languages, Frameworks and Tools   
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Cat_python.png" alt="Python" style="height: 30px; width: auto;"></a> 
