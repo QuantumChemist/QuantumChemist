@@ -8,14 +8,16 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Chris+👋🏻;Theoretical+Chemistry;Chemical+bonding+analysis;Machine-learned+potentials;Materials+informatics;Always%20learning%20new%20things&center=auto&width=500&height=50"></a> 
 
 ---
-[<img align="right" src="https://quantumchemist.github.io/utils/QClogo.gif" width="120px" height=auto />](https://doi.org/10.1021/acs.chemmater.1c03349) 
-I'm Chris, PostDoc at [BAM](https://github.com/BAMresearch) and a former [LOBSTER](http://cohp.de/) developer.
+Hi, I'm Chris,👋🏻 You can check out more [here](https://quantumchemist.github.io/).
 
 ---
 
-You can check out more [here](https://quantumchemist.github.io/).
 
 <!--
+[<img align="right" src="https://quantumchemist.github.io/utils/QClogo.gif" width="120px" height=auto />](https://doi.org/10.1021/acs.chemmater.1c03349) 
+
+PostDoc at [BAM](https://github.com/BAMresearch) and a former [LOBSTER](http://cohp.de/) developer.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -26,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Working on my `GitHub stats` haha
+`GitHub stats`
 
 <a href="https://git.io/awesome-stats-card">
   <img height=200 align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/QuantumChemist?cardType=octocat&theme=tokyonight&preferLogin=true&card_width=320" />
