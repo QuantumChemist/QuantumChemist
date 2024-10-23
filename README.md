@@ -37,17 +37,8 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=QuantumChemist&theme=tokyonight&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=320" />
 </a>
 
-<br clear="left"/> <br clear="left"/>
-
-## GitHub contribution snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuantumChemist/QuantumChemist/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuantumChemist/QuantumChemist/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-
 <!--
+<br clear="left"/> <br clear="left"/>
 working on my `polyglot stats`:
 
 ```python
@@ -157,3 +148,9 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
 
 </br>
 
+## GitHub contribution snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuantumChemist/QuantumChemist/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuantumChemist/QuantumChemist/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
