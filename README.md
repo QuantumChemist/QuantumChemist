@@ -147,10 +147,11 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
 [![trophy](https://github-profile-trophy.vercel.app/?username=QuantumChemist&column=-1&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 </br>
-
+<!--
 ## GitHub contribution snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuantumChemist/QuantumChemist/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuantumChemist/QuantumChemist/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+-->
