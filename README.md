@@ -8,7 +8,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Chris+👋🏻;Theoretical+Chemistry;Chemical+bonding+analysis;Machine-learned+potentials;Materials+informatics;Always%20learning%20new%20things&center=auto&width=500&height=50"></a> 
 
 ---
-Hi, I'm Chris,👋🏻 You can check out more [here](https://quantumchemist.github.io/).
+Hi, I'm Chris,👋🏻 You can check out more [here](https://quantumchemist.de/).
 
 ---
 
