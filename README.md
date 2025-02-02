@@ -131,8 +131,8 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
       <br>PyCharm
     </td>
     <td align="center" width="88">
-        <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_webstorm_macos_bigsur_icon_190053.png" width="48" height="48" alt="WebStorm" />
-      <br>WebStorm
+        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-visual-studio-code-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-python-java-c-coding-lang-pack-logos-icons-7578027.png" width="48" height="48" alt="VisualStudioCode" />
+      <br>VisualStudio Code
     </td>
     <td align="center" width="88">
         <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="Rasberry Pi" />
