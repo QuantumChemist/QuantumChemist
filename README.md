@@ -29,15 +29,17 @@ Here are some ideas to get you started:
 -->
 
 `GitHub stats`
+<td>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantumChemist&theme=github_dark" />
+</td>
 
+<!--
 <a href="https://git.io/awesome-stats-card">
   <img height=200 align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/QuantumChemist?cardType=octocat&theme=tokyonight&preferLogin=true&card_width=320" />
 </a>
 <a href="https://git.io/streak-stats">
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=QuantumChemist&theme=tokyonight&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=320" />
 </a>
-
-<!--
 <br clear="left"/> <br clear="left"/>
 working on my `polyglot stats`:
 
@@ -155,3 +157,5 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 -->
+
+
