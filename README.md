@@ -28,12 +28,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 `GitHub stats`
 <td>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantumChemist&theme=github_dark" />
 </td>
-
-<!--
 <a href="https://git.io/awesome-stats-card">
   <img height=200 align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/QuantumChemist?cardType=octocat&theme=tokyonight&preferLogin=true&card_width=320" />
 </a>
