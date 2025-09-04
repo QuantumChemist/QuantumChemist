@@ -144,7 +144,7 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=QuantumChemist&column=-1&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=QuantumChemist&column=-1&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 </br>
 <!--
