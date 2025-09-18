@@ -7,7 +7,7 @@
 
 
 ---
-Hi, I'm Chris,👋🏻 You can check out more [here](https://quantumchemist.de/).
+Hi, I'm Chris,👋🏻 You can check out more [here](quantumchemist.de/).
 
 ---
 
