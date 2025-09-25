@@ -9,6 +9,8 @@
 ---
 Hi, I'm Chris,👋🏻 You can check out more [here](https://quantumchemist.de/).
 
+If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
+
 ---
 
 
