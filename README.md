@@ -125,6 +125,10 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TS" />
       <br>JS/TS
     </td>
+    <td align="center" width="88">
+      <i class="fa-brands fa-html5"></i> / <i class="fa-brands fa-css"></i>
+      <br>HTML5/CSS
+    </td>
     <td align="center"  width="88">
         <img src="https://next-gen.materialsproject.org/assets/images/home/mp_color.png" width="64" height="48" alt="Materials Project" />
       <br>Materials Project
