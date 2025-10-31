@@ -121,12 +121,12 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
       <br>C#
     </td>
     <td align="center" width="88">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JS" /> /
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JS" /> <br> / <br>
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TS" />
       <br>JS/TS
     </td>
     <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/html5.svg" alt="HTML5" width="32" height="32"> /
+      <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/html5.svg" alt="HTML5" width="32" height="32"> <br> / <br>
 <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/css3.svg" alt="CSS3" width="32" height="32">
       <br>HTML5/CSS
     </td>
