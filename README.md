@@ -126,7 +126,8 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
       <br>JS/TS
     </td>
     <td align="center" width="88">
-      <i class="fa-brands fa-html5"></i> / <i class="fa-brands fa-css"></i>
+      <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/html5.svg" alt="HTML5" width="32" height="32"> /
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/css3.svg" alt="CSS3" width="32" height="32">
       <br>HTML5/CSS
     </td>
     <td align="center"  width="88">
