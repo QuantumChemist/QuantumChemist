@@ -116,9 +116,14 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
       <br>C++
     </td>
+    <td align="center"  width="88">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
     <td align="center" width="88">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="Python" />
-      <br>TS
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JS" /> /
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TS" />
+      <br>JS/TS
     </td>
     <td align="center"  width="88">
         <img src="https://next-gen.materialsproject.org/assets/images/home/mp_color.png" width="64" height="48" alt="Materials Project" />
