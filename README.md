@@ -11,7 +11,7 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 ---
 ### 📊 Some stats 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=QuantumChemist&column=-1&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=QuantumChemist&column=-1&theme=discord&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
