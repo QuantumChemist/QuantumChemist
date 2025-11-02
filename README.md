@@ -1,6 +1,8 @@
 [![Linkedin: Christina Ertural](https://img.shields.io/badge/-Christina%20Ertural-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christina-ertural/)](https://www.linkedin.com/in/christina-ertural/)
 [![GitHub Stars](https://img.shields.io/github/stars/QuantumChemist?style=social)](https://github.com/QuantumChemist)
 
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Chris+👋🏻;Theoretical+Chemistry;Materials+Informatics;Machine%20Learning&center=auto&width=500&height=50"></a>
+
 ---
 Hi, I'm Chris,👋🏻 You can check out more [here](https://quantumchemist.de/).
 
