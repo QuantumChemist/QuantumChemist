@@ -9,6 +9,11 @@ Hi, I'm Chris,👋🏻 You can check out more [on my website](https://quantumche
 If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 
 ---
+### 📊 Some stats 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=QuantumChemist&column=-1&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 <h3 align="center">💻 Languages, Skills, Frameworks & Tools</h3>
 
@@ -101,8 +106,6 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 </table>
 
 </div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=QuantumChemist&column=-1&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 </br>
 
