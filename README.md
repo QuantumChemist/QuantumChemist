@@ -1,10 +1,5 @@
 [![Linkedin: Christina Ertural](https://img.shields.io/badge/-Christina%20Ertural-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christina-ertural/)](https://www.linkedin.com/in/christina-ertural/)
 [![GitHub Stars](https://img.shields.io/github/stars/QuantumChemist?style=social)](https://github.com/QuantumChemist)
-<!--[![GitHub Commits](https://img.shields.io/github/commit-activity/y/QuantumChemist/lobsterpygui?style=social)](https://github.com/QuantumChemist)
-[![GitHub QuantumChemist](https://img.shields.io/github/followers/QuantumChemist?label=follow&style=social)](https://github.com/QuantumChemist)
-[![Hits](https://komarev.com/ghpvc/?username=QuantumChemist&color=blue&label=Hits)](https://github.com/QuantumChemist)
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Chris+👋🏻;Theoretical+Chemistry;Materials+informatics;Always%20learning%20new%20things&center=auto&width=500&height=50"></a> -->
-
 
 ---
 Hi, I'm Chris,👋🏻 You can check out more [here](https://quantumchemist.de/).
@@ -13,6 +8,71 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 
 ---
 
+<h3 align="left" font-size='25px'>Languages, Skills, Frameworks and Tools</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="88">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="88"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="88">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center"  width="88">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center"  width="88">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="88">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JS" /> <br> / <br>
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TS" />
+      <br>JS/TS
+    </td>
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/html5.svg" alt="HTML5" width="32" height="32"> <br> / <br>
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/css3.svg" alt="CSS3" width="32" height="32">
+      <br>HTML5/CSS
+    </td>
+    <td align="center"  width="88">
+        <img src="https://next-gen.materialsproject.org/assets/images/home/mp_color.png" width="64" height="48" alt="Materials Project" />
+      <br>Materials Project
+    </td>
+    <td align="center" width="88">
+        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-download-in-png-blend-fbx-gltf-file-formats--mongodb-database-document-oriented-nosql-coding-lang-pack-logos-icons-7577996.png" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="88">
+        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-pycharm-3d-logo-download-in-png-blend-fbx-gltf-file-formats--software-coding-tool-web-social-media-pack-company-brand-logos-4781227.png" width="48" height="48" alt="PyCharm" />
+      <br>PyCharm
+    </td>
+    <td align="center" width="88">
+        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-visual-studio-code-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-python-java-c-coding-lang-pack-logos-icons-7578027.png" width="48" height="48" alt="VisualStudioCode" />
+      <br>VisualStudio Code
+    </td>
+    <td align="center" width="88">
+        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="Rasberry Pi" />
+      <br>Raspberry Pi 3
+    </td>    
+  </tr>
+</table>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=QuantumChemist&column=-1&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+</br>
+
+<!--[![GitHub Commits](https://img.shields.io/github/commit-activity/y/QuantumChemist/lobsterpygui?style=social)](https://github.com/QuantumChemist)
+[![GitHub QuantumChemist](https://img.shields.io/github/followers/QuantumChemist?label=follow&style=social)](https://github.com/QuantumChemist)
+[![Hits](https://komarev.com/ghpvc/?username=QuantumChemist&color=blue&label=Hits)](https://github.com/QuantumChemist)
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Chris+👋🏻;Theoretical+Chemistry;Materials+informatics;Always%20learning%20new%20things&center=auto&width=500&height=50"></a> -->
 
 <!--
 [<img align="right" src="https://quantumchemist.github.io/utils/QClogo.gif" width="120px" height=auto />](https://doi.org/10.1021/acs.chemmater.1c03349) 
@@ -96,69 +156,6 @@ Out [3]: "If you happen to speak one of these languages and are interested in Ta
   ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
 -->
 
-<h3 align="left" font-size='25px'>Languages, Skills, Frameworks and Tools</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="88">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="88"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="88">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center"  width="88">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center"  width="88">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="88">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JS" /> <br> / <br>
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TS" />
-      <br>JS/TS
-    </td>
-    <td align="center" width="88">
-      <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/html5.svg" alt="HTML5" width="32" height="32"> <br> / <br>
-<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/css3.svg" alt="CSS3" width="32" height="32">
-      <br>HTML5/CSS
-    </td>
-    <td align="center"  width="88">
-        <img src="https://next-gen.materialsproject.org/assets/images/home/mp_color.png" width="64" height="48" alt="Materials Project" />
-      <br>Materials Project
-    </td>
-    <td align="center" width="88">
-        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-download-in-png-blend-fbx-gltf-file-formats--mongodb-database-document-oriented-nosql-coding-lang-pack-logos-icons-7577996.png" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="88">
-        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-pycharm-3d-logo-download-in-png-blend-fbx-gltf-file-formats--software-coding-tool-web-social-media-pack-company-brand-logos-4781227.png" width="48" height="48" alt="PyCharm" />
-      <br>PyCharm
-    </td>
-    <td align="center" width="88">
-        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-visual-studio-code-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-python-java-c-coding-lang-pack-logos-icons-7578027.png" width="48" height="48" alt="VisualStudioCode" />
-      <br>VisualStudio Code
-    </td>
-    <td align="center" width="88">
-        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="48" height="48" alt="Rasberry Pi" />
-      <br>Raspberry Pi 3
-    </td>
-
-
-    
-  </tr>
-</table>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=QuantumChemist&column=-1&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
-</br>
 <!--
 ## GitHub contribution snake
 <picture>
