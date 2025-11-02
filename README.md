@@ -53,7 +53,7 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
       <br><strong>HTML5</strong>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/css3.svg" alt="CSS" width="50" height="50">
+      <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/regular/file-code.svg" alt="CSS" width="50" height="50">
       <br><strong>CSS</strong>
     </td>
   </tr>
