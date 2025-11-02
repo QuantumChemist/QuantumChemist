@@ -4,7 +4,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Chris+👋🏻;Theoretical+Chemistry;Materials+Informatics;Machine%20Learning&center=auto&width=500&height=50"></a>
 
 ---
-Hi, I'm Chris,👋🏻 You can check out more [here](https://quantumchemist.de/).
+Hi, I'm Chris,👋🏻 You can check out more [on my website](https://quantumchemist.de/).
 
 If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 
