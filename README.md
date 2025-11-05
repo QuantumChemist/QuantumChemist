@@ -8,10 +8,10 @@ Hi, I'm Chris,👋🏻 You can check out more [on my website](https://quantumche
 
 If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 
-<!-- ---
+---
 ### 📊 Some stats 
 
-[![trophy](https://www.quantumchemist.de/utils/trophy.svg)](https://github.com/QuantumChemist/github-profile-trophy) -->
+[![trophy](https://www.quantumchemist.de/utils/trophy.svg)](https://github.com/QuantumChemist/github-profile-trophy)
 
 ---
 
