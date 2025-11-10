@@ -45,7 +45,7 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
   </tr>
 </table>
 
-### Web Technologies
+### Web Technologies | Databases & Platforms | Development Tools
 <table>
   <tr>
     <td align="center" width="100">
@@ -56,12 +56,6 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
       <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/regular/file-code.svg" alt="CSS" width="50" height="50">
       <br><strong>CSS</strong>
     </td>
-  </tr>
-</table>
-
-### Databases & Platforms
-<table>
-  <tr>
     <td align="center" width="100">
       <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-download-in-png-blend-fbx-gltf-file-formats--mongodb-database-document-oriented-nosql-coding-lang-pack-logos-icons-7577996.png" width="50" height="50" alt="MongoDB" />
       <br><strong>MongoDB</strong>
@@ -70,12 +64,6 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
       <img src="https://next-gen.materialsproject.org/assets/images/home/mp_color.png" width="60" height="45" alt="Materials Project" />
       <br><strong>Materials Project</strong>
     </td>
-  </tr>
-</table>
-
-### Development Tools
-<table>
-  <tr>
     <td align="center" width="100">
       <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-pycharm-3d-logo-download-in-png-blend-fbx-gltf-file-formats--software-coding-tool-web-social-media-pack-company-brand-logos-4781227.png" width="50" height="50" alt="PyCharm" />
       <br><strong>PyCharm</strong>
