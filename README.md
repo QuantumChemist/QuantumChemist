@@ -10,9 +10,9 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 
 ---
 ### 📊 Some stats 
-
-<!-- [![trophy](https://www.quantumchemist.de/utils//trophy.svg)](https://github.com/QuantumChemist/github-profile-trophy) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=QuantumChemist&column=-1&theme=discord&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy/commit/d4b62d889581e4a24818640da66fadaad6f0c5e1)
+<a href="https://github.com/ryo-ma/github-profile-trophy/commit/d4b62d889581e4a24818640da66fadaad6f0c5e1">
+  <img src="https://github-profile-trophy.vercel.app/?username=QuantumChemist&column=-1&theme=discord&no-bg=true" alt="trophy" onerror="this.onerror=null;this.src='https://www.quantumchemist.de/utils//trophy.svg';" />
+</a>
 
 ---
 
