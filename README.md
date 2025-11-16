@@ -98,7 +98,7 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 
 </br>
 
-### 🧾 Certificates
+### 🧾 Online Certificates
 
 <a href="https://freecodecamp.org/certification/chichimeetsyoko/foundational-c-sharp-with-microsoft">
   <img src="https://www.quantumchemist.de/utils/certificate_foundational-c-sharp-with-microsoft.png" width="300" height="auto" style="border-radius: 20px;"/>
