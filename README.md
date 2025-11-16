@@ -16,7 +16,7 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 
 ---
 
-<h3 align="center">💻 Languages, Skills, Frameworks & Tools</h3>
+### 💻 Languages, Skills, Frameworks & Tools
 
 <div align="center">
 
