@@ -98,6 +98,11 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 
 </br>
 
+### 🧾 Certificates
+
+
+
+
 <!--[![GitHub Commits](https://img.shields.io/github/commit-activity/y/QuantumChemist/lobsterpygui?style=social)](https://github.com/QuantumChemist)
 [![GitHub QuantumChemist](https://img.shields.io/github/followers/QuantumChemist?label=follow&style=social)](https://github.com/QuantumChemist)
 [![Hits](https://komarev.com/ghpvc/?username=QuantumChemist&color=blue&label=Hits)](https://github.com/QuantumChemist) -->
