@@ -42,8 +42,6 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
       <br><strong>TypeScript</strong>
     </td>
   </tr>
-</table>
-<table>
   <tr>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
@@ -66,8 +64,6 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
       <br><strong>VS Code</strong>
     </td>
   </tr>
-</table>
-<table>
   <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/svgs/brands/html5.svg" alt="HTML5" width="50" height="50">
