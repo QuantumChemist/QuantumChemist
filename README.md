@@ -19,8 +19,6 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 ### 💻 Languages, Skills, Frameworks & Tools
 
 <div align="center">
-
-### Programming Languages
 <table>
   <tr>
     <td align="center" width="100">
@@ -45,8 +43,30 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
     </td>
   </tr>
 </table>
-
-### Web Technologies | Databases & Platforms | Development Tools
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+      <br><strong>GitHub</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="50" height="50" alt="Raspberry Pi" />
+      <br><strong>Raspberry Pi</strong>
+    </td>
+        <td align="center" width="100">
+      <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-pycharm-3d-logo-download-in-png-blend-fbx-gltf-file-formats--software-coding-tool-web-social-media-pack-company-brand-logos-4781227.png" width="50" height="50" alt="PyCharm" />
+      <br><strong>PyCharm</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-visual-studio-code-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-python-java-c-coding-lang-pack-logos-icons-7578027.png" width="50" height="50" alt="VS Code" />
+      <br><strong>VS Code</strong>
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <td align="center" width="100">
@@ -65,31 +85,9 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
       <img src="https://next-gen.materialsproject.org/assets/images/home/mp_color.png" width="60" height="45" alt="Materials Project" />
       <br><strong>Materials Project</strong>
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-pycharm-3d-logo-download-in-png-blend-fbx-gltf-file-formats--software-coding-tool-web-social-media-pack-company-brand-logos-4781227.png" width="50" height="50" alt="PyCharm" />
-      <br><strong>PyCharm</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-visual-studio-code-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-python-java-c-coding-lang-pack-logos-icons-7578027.png" width="50" height="50" alt="VS Code" />
-      <br><strong>VS Code</strong>
-    </td>
-  </tr>
-</table>
-
-### Version Control & Hardware
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-      <br><strong>GitHub</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="50" height="50" alt="Raspberry Pi" />
-      <br><strong>Raspberry Pi</strong>
+        <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" width="60" height="45" alt="Linux" />
+      <br><strong>Linux</strong>
     </td>
   </tr>
 </table>
