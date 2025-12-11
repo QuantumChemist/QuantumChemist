@@ -91,14 +91,13 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 </div>
 
 </br>
-
+<!--
 ### 🧾 [freeCodeCamp](https://github.com/freeCodeCamp) Certificates
-
-<a href="https://freecodecamp.org/certification/chichimeetsyoko/foundational-c-sharp-with-microsoft">
+-->
+<!-- <a href="https://freecodecamp.org/certification/chichimeetsyoko/foundational-c-sharp-with-microsoft">
   <img src="https://www.quantumchemist.de/utils/certificate_foundational-c-sharp-with-microsoft.png" width="300" height="auto" style="border-radius: 20px;"/>
-</a>
-
-
+</a> -->
+<!-- thx https://github.com/freeCodeCamp/freeCodeCamp/issues/64195#issuecomment-3641623913 , I will keep a menatl note to never support, contribute or donate there -->
 
 
 <!--[![GitHub Commits](https://img.shields.io/github/commit-activity/y/QuantumChemist/lobsterpygui?style=social)](https://github.com/QuantumChemist)
