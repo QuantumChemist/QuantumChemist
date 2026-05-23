@@ -78,7 +78,7 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
       <br><strong>MongoDB</strong>
     </td>
     <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/QuantumChemist/QuantumChemist.github.io/refs/heads/main/utils/pics/MP_logo.png" width="60" height="45" alt="Materials Project" />
+      <img src="https://raw.githubusercontent.com/QuantumChemist/QuantumChemist.github.io/refs/heads/main/utils/pics/MP_logo.png" width="50" height="50" alt="Materials Project" />
       <br><strong>Materials Project</strong>
     </td>
         <td align="center" width="150">
