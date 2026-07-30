@@ -22,10 +22,6 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 <table>
   <tr>
     <td align="center" width="150">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="150">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" alt="C++" />
       <br><strong>C++</strong>
     </td>
@@ -59,10 +55,6 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
       <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-pycharm-3d-logo-download-in-png-blend-fbx-gltf-file-formats--software-coding-tool-web-social-media-pack-company-brand-logos-4781227.png" width="50" height="50" alt="PyCharm" />
       <br><strong>PyCharm</strong>
     </td>
-    <td align="center" width="150">
-      <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-visual-studio-code-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-python-java-c-coding-lang-pack-logos-icons-7578027.png" width="50" height="50" alt="VS Code" />
-      <br><strong>VS Code</strong>
-    </td>
   </tr>
   <tr>
     <td align="center" width="150">
@@ -78,12 +70,26 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
       <br><strong>MongoDB</strong>
     </td>
     <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+      </tr>
+  <tr>
+    <td align="center" width="150">
       <img src="https://raw.githubusercontent.com/QuantumChemist/QuantumChemist.github.io/refs/heads/main/utils/pics/MP_logo.png" width="50" height="50" alt="Materials Project" />
       <br><strong>Materials Project</strong>
     </td>
         <td align="center" width="150">
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" width="60" height="45" alt="Linux" />
       <br><strong>Linux</strong>
+    </td>
+        <td align="center" width="150">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+        <td align="center" width="150">
+      <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-visual-studio-code-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-python-java-c-coding-lang-pack-logos-icons-7578027.png" width="50" height="50" alt="VS Code" />
+      <br><strong>VS Code</strong>
     </td>
   </tr>
 </table>
