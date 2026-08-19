@@ -115,7 +115,7 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 
 PostDoc at [BAM](https://github.com/BAMresearch) and a former [LOBSTER](http://cohp.de/) developer.
 
-  <!-- onerror="this.onerror=null;this.src='https://github-profile-trophy.vercel.app/?username=QuantumChemist&no-bg=true&column=-1&theme=discord';" -->
+onerror="this.onerror=null;this.src='https://github-profile-trophy.vercel.app/?username=QuantumChemist&no-bg=true&column=-1&theme=discord';" 
 
 Here are some ideas to get you started:
 
