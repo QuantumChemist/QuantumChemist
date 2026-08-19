@@ -9,9 +9,9 @@ Hi, I'm Chris,👋🏻 You can check out more [on my website](https://quantumche
 If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 
 ---
-### 📊 Some stats (Jan. 2026)
+### 📊 Some stats (Aug. 2026)
 <a href="https://github.com/ryo-ma/github-profile-trophy/commit/d4b62d889581e4a24818640da66fadaad6f0c5e1">
-  <img src="https://www.quantumchemist.de/utils//trophy.svg" alt="trophy" onerror="this.onerror=null;this.src='https://github-profile-trophy.vercel.app/?username=QuantumChemist&no-bg=true&column=-1&theme=discord';" />
+  <img src="https://www.quantumchemist.de/utils//trophy.svg" alt="trophy" />
 </a>
 
 ---
@@ -114,6 +114,8 @@ If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 [<img align="right" src="https://quantumchemist.github.io/utils/QClogo.gif" width="120px" height=auto />](https://doi.org/10.1021/acs.chemmater.1c03349) 
 
 PostDoc at [BAM](https://github.com/BAMresearch) and a former [LOBSTER](http://cohp.de/) developer.
+
+  <!-- onerror="this.onerror=null;this.src='https://github-profile-trophy.vercel.app/?username=QuantumChemist&no-bg=true&column=-1&theme=discord';" -->
 
 Here are some ideas to get you started:
 
