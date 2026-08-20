@@ -9,7 +9,7 @@ Hi, I'm Chris,👋🏻 You can check out more [on my website](https://quantumche
 If my life had a [theme song](https://youtu.be/cG5ejJU_Y5E?si=tNYSqm_VRJPfStwP).
 
 ---
-### 📊 Some stats (Aug. 2026)
+### 📊 Some stats 
 <a href="https://github.com/ryo-ma/github-profile-trophy/commit/d4b62d889581e4a24818640da66fadaad6f0c5e1">
   <img src="https://www.quantumchemist.de/utils//trophy.svg" alt="trophy" />
 </a>
